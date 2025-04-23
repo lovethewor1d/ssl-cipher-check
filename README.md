@@ -1,6 +1,3 @@
-Here's a ready-to-copy **`README.md`** in Markdown format for your `checkssl.py` script. You can directly paste this into your GitHub repository:
-
-```markdown
 # 🔐 SSL Cipher Strength Checker
 
 This Python script allows users to evaluate the strength of SSL/TLS ciphers by analyzing their names using the [ciphersuite.info](https://ciphersuite.info/) API. It's designed to support quick audits based on output from tools like Nmap SSL scans.
